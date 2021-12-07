@@ -1,0 +1,4 @@
+﻿  program.cpp
+  The contents of <string_view> are available only with C++17 or later.
+C:\Users\AMD\source\repos\OpenGL\program.cpp(90,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  OpenGL.vcxproj -> C:\Users\AMD\source\repos\OpenGL\x64\Debug\OpenGL.exe
